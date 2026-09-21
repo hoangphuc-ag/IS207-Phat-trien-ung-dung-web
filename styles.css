@@ -1,0 +1,32 @@
+h1, h2, h3, h4 {
+    font-size: 24px;
+    -webkit-text-stroke: 1px black;
+    text-stroke: 1px black;
+}
+.intro-section {
+    background-color: #F3FDE8;
+    padding: 20px;
+}
+.contact-section {
+    background-color: #F3FDE8;
+    text-align: center;
+    padding: 20px;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 8px;
+    margin: 0 auto;
+}
+nav, footer {
+    background-color: #d4f2f4;
+    color: #0b0848;
+    padding: 10px;
+    text-align: center;
+}
+nav a {
+    color: #0b0848;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
